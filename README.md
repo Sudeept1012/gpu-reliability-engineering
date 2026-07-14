@@ -35,7 +35,7 @@ This paper proposes a reliability-first operating model for GPU fleets, adapted 
 
 ## Discussion welcome
 
-I'd genuinely welcome disagreement — especially from those operating large GPU fleets today. What failure classes are you seeing that this model misses? Open an issue or reach out on [LinkedIn](https://www.linkedin.com/).
+I'd genuinely welcome disagreement — especially from those operating large GPU fleets today. What failure classes are you seeing that this model misses? Open an issue or reach out on [LinkedIn](https://www.linkedin.com/in/sudeept-s-4b474236/).
 
 ## Author
 
@@ -50,5 +50,5 @@ This work is licensed under [CC BY 4.0](LICENSE.md) — share and adapt freely w
 ```
 Srivastava, S. (2026). Why GPU Infrastructure Needs Reliability Engineering:
 Applying Predictive Operations, Self-Healing Infrastructure and Autonomous
-Maintenance to AI Clusters. GitHub. https://github.com/<your-username>/gpu-reliability-engineering
+Maintenance to AI Clusters. GitHub. https://github.com/<sudeept1012>/gpu-reliability-engineering
 ```
